@@ -241,8 +241,7 @@ function create_config( )
       "spanish_lang",
       "version",
       "italian_lang",
-      "leave_ban"
-      "rules",
+      "leave_ban",
       "persian_lang",
       "onservice"
      },
