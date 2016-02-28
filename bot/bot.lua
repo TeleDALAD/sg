@@ -241,7 +241,6 @@ function create_config( )
       "spanish_lang",
       "version",
       "italian_lang"
-      "broadcast",
       "admin",
       "leave_ban"
       "rules",
