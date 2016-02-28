@@ -241,6 +241,12 @@ function create_config( )
       "spanish_lang",
       "version",
       "italian_lang"
+      "broadcast",
+      "admin",
+      "leave_ban"
+      "rules",
+      "persian_lang",
+      "onservice"
      },
     sudo_users = {175623013,81444630},
     admin_users = {},
