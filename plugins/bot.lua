@@ -72,8 +72,8 @@ end
 
 return {
 	patterns = {
-		"^#bot? (on)",
-		"^#bot? (off)" }, 
+		"^bot? (on)",
+		"^bot? (off)" }, 
 	run = run,
 	pre_process = pre_process
 }
