@@ -240,8 +240,7 @@ function create_config( )
       "spam",
       "spanish_lang",
       "version",
-      "italian_lang"
-      "admin",
+      "italian_lang",
       "leave_ban"
       "rules",
       "persian_lang",
